@@ -9,7 +9,7 @@ Follow these instructions to set up and run the game on your local machine.
 ### Prerequisites
 
 - Python 3.xxx installed on your computer.
-- pip package manager installed.
+- pip package manager installed(pip install).
 - pip install flask
 
 ### Installation
