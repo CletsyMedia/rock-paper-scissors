@@ -4,7 +4,7 @@ Welcome to the Rock Paper Scissors game! This is a simple web application built 
 
 ## Getting Started
 
-Follow these instructions to set up and run the game on your local machine.
+Follow these instructions to set up and run the game on your local machine and enjoy.
 
 ### Prerequisites
 
